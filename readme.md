@@ -1,4 +1,4 @@
-Bright education classes chirag delhi 689 All subjects till 10 class contact 7530880140
+Bright education coaching classes 
 
 The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
